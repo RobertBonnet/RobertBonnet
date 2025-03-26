@@ -1,4 +1,4 @@
-![Header Image](Robert Bonnet Data Scientist.png)
+<img src="Robert Bonnet Data Scientist.png" alt="Banner" width="100%" />
 
 <!--
 **RobertBonnet/RobertBonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
