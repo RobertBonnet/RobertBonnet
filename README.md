@@ -43,6 +43,8 @@ Modeled the most profitable regions to drill new oil wells.
 
 - **Research Professor, American School Foundation of Guadalajara**
   - Developed high-tech lab experiments & earned 3x championship recognition for performance
+- **Data Science Internship, Carb Curb**
+  - Designed machine learning models for a nutraceutical company
 - **Deputy Director, Mexican Pharmaceutical Association**
   - Bridged nutraceutical companies with pharmaceutical law
 - **Research Professor, University of Guadalajara**
