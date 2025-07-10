@@ -54,6 +54,7 @@ Modeled the most profitable regions to drill new oil wells.
 
 ## 🎓 Education
 
+- 🧪 **M.Sc. in Data Science Engineering**, Laureate International Universities
 - 📊 **Bootcamp in Data Science**, TripleTen (2024–2025)
 - 🎓 **Ph.D. in Pharmacology**, University of Guadalajara
 - 🧪 **M.Sc. in Clinical Nutrition**, Laureate International Universities
