@@ -3,7 +3,7 @@
 <!--
 **RobertBonnet/RobertBonnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# 👨‍🔬 Robert Bonnet | Research & Development Data Scientist
+# 👨‍🔬 Robert Bonnet | Machine Learning Data Scientist
 
 🎯 **Mission:** Use data science to bridge the gap between pharmaceutical research and impactful real-world applications.
 
