@@ -27,25 +27,25 @@ Currently completing a **Data Science Bootcamp at TripleTen** (2024–2025), whe
 
 ## 🧠 Featured Projects
 
-### 🧪 [Supplement Sales Analysis and Forecasting] (https://www.loom.com/share/3f49c6ac68ca46459609a23b9757616d)
+### 🧪 [Supplement Sales Analysis and Forecasting](https://www.loom.com/share/3f49c6ac68ca46459609a23b9757616d)
 Uncover drivers of supplement sales to optimize marketing and product strategy and improve forecasting.
 • Performed exploratory analysis and KPI tracking on historical supplement sales to identify trends, seasonality, and performance.
 • Addressed business questions by segmenting top SKUs, evaluating customer purchasing patterns, and uncovering revenue drivers.
 • Used Pandas, Matplotlib, and Seaborn for data processing, visualization, and insights generation to support data-driven decisions.
 
-### 📞 [Telecom Customer Churn Prediction Project] (https://github.com/RobertBonnet/Interconnect---Customer-Churn-Prediction/blob/main/Interconnect%20-%20Customer%20Churn%20Prediction%20Project.ipynb)
+### 📞 [Telecom Customer Churn Prediction Project](https://github.com/RobertBonnet/Interconnect---Customer-Churn-Prediction/blob/main/Interconnect%20-%20Customer%20Churn%20Prediction%20Project.ipynb)
 Predict contract cancellations to reduce customer churn in the telecom industry.
 • Built a binary classification model to predict whether a customer would cancel their contract based on service, payment, and demographic data.
 • Addressed the business need to reduce churn by identifying high-risk customers and enabling proactive retention strategies.
 • Utilized Python, Pandas, Scikit-learn, and Matplotlib for data preprocessing, feature engineering, model training, and evaluation using accuracy, recall, and ROC-AUC.
 
-### 💊 [Drug-Induced Autoimmunity Prediction] (https://www.loom.com/share/b0c63451d4154d86b5dd60017c812501)
+### 💊 [Drug-Induced Autoimmunity Prediction](https://www.loom.com/share/b0c63451d4154d86b5dd60017c812501)
 Identify compounds likely to trigger drug-induced autoimmune responses.
 • Built a binary classification model to predict the likelihood of a compound causing autoimmunity based on molecular descriptors.
 • Addressed a real-world pharmacovigilance problem by improving early identification of immunotoxic drug candidates.
 • Employed Python, Pandas, Scikit-learn, cross-validation, and evaluation with ROC-AUC and precision-recall metrics.
 
-### 🧬 [Breast Cancer Diagnostic] (https://www.loom.com/share/8e3c20e967004b4cbbebbe5229619598)
+### 🧬 [Breast Cancer Diagnostic](https://www.loom.com/share/8e3c20e967004b4cbbebbe5229619598)
 Predict breast cancer diagnosis based on biopsy measurements.
 • Developed a classification model to predict whether tumors are malignant or benign using the Wisconsin Breast Cancer dataset.
 • Solved the problem of early detection and accurate diagnosis by analyzing features such as cell size, texture, and concavity.
