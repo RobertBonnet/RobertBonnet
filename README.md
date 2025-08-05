@@ -13,7 +13,7 @@
 
 Hi! I’m Robert, a data scientist with over 5 years of experience in the pharmaceutical industry and a Ph.D. in Pharmacology. I’ve published widely-read scientific articles in health sciences (30,000+ reads in 10+ countries 🌎) and am now diving deep into data science, machine learning, and applied analytics to drive decision-making in R&D.
 
-Currently completing a **Data Science Bootcamp at TripleTen** (2024–2025), where I’ve built predictive models in mining and energy sectors and applied machine learning techniques to real-world problems.
+Completed a **Data Science Bootcamp at TripleTen and a Data Science Engineering MSc at the University**, where I’ve built predictive models in mining and energy sectors and applied machine learning techniques to real-world problems.
 
 ---
 
